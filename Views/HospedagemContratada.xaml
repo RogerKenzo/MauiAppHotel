@@ -5,7 +5,7 @@
              Title="HospedagemContratada">
     <VerticalStackLayout>
         <Label 
-            Text="Hospedagem contratada"
+            Text="Hospedagem contratada 2"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>
